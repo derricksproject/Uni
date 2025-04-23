@@ -1,0 +1,9 @@
+export 'package:flutter_allianz/presentation/pages/sensorboards/air_quality.dart';
+export 'package:flutter_allianz/presentation/pages/sensorboards/co.dart';
+export 'package:flutter_allianz/presentation/pages/sensorboards/co2.dart';
+export 'package:flutter_allianz/presentation/pages/sensorboards/humidity.dart';
+export 'package:flutter_allianz/presentation/pages/sensorboards/o2.dart';
+export 'package:flutter_allianz/presentation/pages/sensorboards/o3.dart';
+export 'package:flutter_allianz/presentation/pages/sensorboards/pressure.dart';
+export 'package:flutter_allianz/presentation/pages/sensorboards/sensorboards.dart';
+export 'package:flutter_allianz/presentation/pages/sensorboards/temperature.dart';
