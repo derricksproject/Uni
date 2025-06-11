@@ -1,4 +1,4 @@
-# 🎓 Uni-Projekte & Eigenes Game-Projekt
+# 🎓 Uni-Projekt
 
 Willkommen in meinem GitHub-Portfolio! Hier findest du eine Auswahl meiner bisherigen Projekte, die ich im Rahmen meines Informatikstudiums und in meiner Freizeit realisiert habe.
 
